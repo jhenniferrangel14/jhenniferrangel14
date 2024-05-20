@@ -1,16 +1,15 @@
 ### Hi there 👋
+meu nome é Jhennifer Julia
 
-<!--
-**jhenniferrangel14/jhenniferrangel14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- estou estudando na [alura](https://www.alura.com.br)
+- estou me desenvolvendo na linguagem javaScript
+- utilizo esse espaço para minha organização e compartilhamento dos meu pojetos desenvolvidos
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você entrar em contato comigo 📧
+
+00001105301886SP@al.educacao.sp.gov.br
+
+jhenniferrangel14
+
+![](https://media1.tenor.com/m/GgiOGkaXQnIAAAAC/au-ah-tau-ah.gif)
